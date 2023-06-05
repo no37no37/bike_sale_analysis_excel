@@ -36,3 +36,7 @@ Customized the layout, appearance, and formatting of the dashboard to enhance us
 # Filters and Slicers
 Incorporated filters and slicers to enable users to interact with the dashboard and explore specific data subsets.
 Implemented filtering options based on marital status, region, education, and other demographics.
+
+# Dashboard
+
+![Bike Sales Dashboard](https://github.com/no37no37/bike_sale_analysis_excel/assets/132648428/441d7ab3-3376-4382-81d6-5ef8078d0a8c)
